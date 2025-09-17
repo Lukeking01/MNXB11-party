@@ -6,5 +6,6 @@ Things we need
 -  a location
 -  drinks
 -  food
--  music
+-  good music
+-  speakers
 
