@@ -1,6 +1,6 @@
 # Party plans
 
-We want to plan a party together
+We want to plan a party together (yay)
 
 Things we need
 -  a location
@@ -9,3 +9,4 @@ Things we need
 -  good music
 -  speakers
 -  clown
+
