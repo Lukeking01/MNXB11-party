@@ -8,4 +8,5 @@ Things we need
 -  food
 -  good music
 -  speakers
+-  clown
 
